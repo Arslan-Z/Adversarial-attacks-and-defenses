@@ -10,13 +10,18 @@ By using these examples as training data, adversarial training learns models tha
 
 
 ## Table of Contents
-### Attacks
+### Attacks     
  - [CV](#CV)
  - [NLP](#NLP)
  - [RL](#RL)
 ### Defenses
+- [Modify the training process](#Modify the training process)
+- [Modify the input data](#Modify the input data)
+- [Modify Network](#Modify Network)
+- [Networks adjunction](#Networks adjunction)
  
-
 
 ## CV
  * 
+
+
