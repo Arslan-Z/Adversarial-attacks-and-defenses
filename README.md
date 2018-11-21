@@ -26,7 +26,8 @@ By using these examples as training data, adversarial training learns models tha
  
  
  
- 
+## Modify the training process
  Adversarial training
-
+ Foveation-based defense
+  Data randomization and other methods
 
