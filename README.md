@@ -50,3 +50,7 @@ In this way, the foveation may produce a change of the position and scale of the
 It is well-known that the representations learned by the CNNs are robust to changes of scale and position of the objects, and the transformation produced by the foveation does not negatively affect the performance of the CNN. 
 Also, the foveation mechanism does not introduce non-linearities, it does not modify pixel values from the original image, and the interpolations for re-sizing the image are linear. Without loss of generality, the foveation mechanism can be used as a crop of a region that includes most of the object or the whole object.
 
+
+##Attacks wth GAN
+* [Generating Natural Adversarial Examples.](https://arxiv.org/abs/1710.11342)
+* [Learning Universal Adversarial Perturbations with Generative Models.](https://arxiv.org/abs/1708.05207)
