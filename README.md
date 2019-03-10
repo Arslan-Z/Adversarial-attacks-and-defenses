@@ -2,12 +2,8 @@
 A curated list of adversarial learning resources
 
 	
-Some current models are quite vulnerable to adversarial examples, for example, inputs that are almost indistinguishable from natural data and yet classified incorrectly by the network. 
-
+With the widespread application of artificial intelligence and machine learning technology in various fields, some recent work has demonstrated that some current models are quite vulnerable to adversarial examples, for example, inputs that are almost indistinguishable from natural data and yet classified incorrectly by the network. 
 Adversarial examples expose regions of the input space where the model performs poorly, which can aid in understanding and improving the model. 
-
-By using these examples as training data, adversarial training learns models that are more robust, and may even perform better on non-adversarial examples. 
-
 
 ## Table of Contents
 ### Attacks     
@@ -22,7 +18,28 @@ By using these examples as training data, adversarial training learns models tha
  
 
 ## CV
- * 
+ **Classification**
+ * [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599), S. Moosavi-Dezfooli et al., CVPR 2016
+ * [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528), N. Papernot et al., ESSP 2016
+ * [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples](https://arxiv.org/abs/1605.07277), N. Papernot et al., arxiv 2016
+ * [Adversarial Examples In The Physical World](https://arxiv.org/pdf/1607.02533v3.pdf), A. Kurakin et al., ICLR workshop 2017 
+ * [Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770) Liu et al., ICLR 2017
+ * [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644) N. Carlini et al., SSP 2017
+ * [Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples](https://arxiv.org/abs/1602.02697), N. Papernot et al., Asia CCS 2017
+ * [Privacy and machine learning: two unexpected allies?](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html), I. Goodfellow et al.
+ 
+## NLP
+**Speech Recognition**
+* [Audio Adversarial Examples: Targeted Attacks on Speech-to-Text](https://arxiv.org/abs/1801.01944), N. Carlini et al., arxiv 2018
+
+**Questiona Answering System**
+* [Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328), R. Jia et al., EMNLP 2017
+
+ 
+ ## RL
+* [Adversarial attacks on neural network policies](https://arxiv.org/abs/1702.02284), S. Huang et al, ICLR workshop 2017
+* [Tactics of Adversarial Attacks on Deep Reinforcement Learning Agents](https://arxiv.org/abs/1703.06748), Y. Lin et al, IJCAI 2017
+* [Delving into adversarial attacks on deep policies](https://arxiv.org/abs/1705.06452), J. Kos et al., ICLR workshop 2017
  
  
  
