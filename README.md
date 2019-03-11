@@ -29,13 +29,15 @@ Adversarial examples expose regions of the input space where the model performs 
  * [Privacy and machine learning: two unexpected allies?](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html), I. Goodfellow et al.
  
 ## NLP
+* [Generating Natural Language Adversarial Examples](https://arxiv.org/pdf/1804.07998.pdf), M. Alzantot et al., arxiv 2018
+
 **Speech Recognition**
 * [Audio Adversarial Examples: Targeted Attacks on Speech-to-Text](https://arxiv.org/abs/1801.01944), N. Carlini et al., arxiv 2018
 
-**Questiona Answering System**
+**Question Answering System**
 * [Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328), R. Jia et al., EMNLP 2017
 
- 
+
  ## RL
 * [Adversarial attacks on neural network policies](https://arxiv.org/abs/1702.02284), S. Huang et al, ICLR workshop 2017
 * [Tactics of Adversarial Attacks on Deep Reinforcement Learning Agents](https://arxiv.org/abs/1703.06748), Y. Lin et al, IJCAI 2017
