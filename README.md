@@ -73,3 +73,5 @@ Also, the foveation mechanism does not introduce non-linearities, it does not mo
 ##Attacks wth GAN
 * [Generating Natural Adversarial Examples.](https://arxiv.org/abs/1710.11342)
 * [Learning Universal Adversarial Perturbations with Generative Models.](https://arxiv.org/abs/1708.05207)
+
+#
