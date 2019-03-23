@@ -54,6 +54,7 @@ They proposed virtual adversarial training method for semi-supervised text class
 ***Stability training***
 
 
+
 **Foveation-based defense**
 
 * [Foveation-based Mechanisms Alleviate Adversarial Examples.](https://arxiv.org/abs/1511.06292)
@@ -68,4 +69,6 @@ Also, the foveation mechanism does not introduce non-linearities, it does not mo
 * [Generating Natural Adversarial Examples.](https://arxiv.org/abs/1710.11342)
 * [Learning Universal Adversarial Perturbations with Generative Models.](https://arxiv.org/abs/1708.05207)
 
-#
+## Detection-only Method
+
+***Feature squeezing***
